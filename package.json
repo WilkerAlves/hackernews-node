@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/WilkerAlves/hackernews-node/issues"
   },
-  "homepage": "https://github.com/WilkerAlves/hackernews-node#readme"
+  "homepage": "https://github.com/WilkerAlves/hackernews-node#readme",
+  "dependencies": {
+    "graphql-client": "^2.0.1",
+    "graphql-yoga": "^1.16.2",
+    "prisma-binding": "^2.1.6"
+  }
 }
